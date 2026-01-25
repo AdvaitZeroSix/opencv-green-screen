@@ -15,7 +15,7 @@ No advanced setup required — just plug and play.
 
 ---
 
-##  How to Use Your Own Background Image (Very Important)
+##  How to Use Your Own Background Image
 
 You can use **ANY image you like** as the background.
 
@@ -29,14 +29,14 @@ That’s it — no code changes needed.
 
 ---
 
-## 📦 Requirements
+## Requirements
 - Python 3.8 or above
 - Webcam
 - Green cloth or green background
 
 ---
 
-## 🔧 Installation
+##  Installation
 
 Install dependencies using:
 
