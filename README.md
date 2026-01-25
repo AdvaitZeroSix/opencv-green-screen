@@ -1,1 +1,0 @@
-# Invisibile_OpenCV
